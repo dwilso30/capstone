@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Capstone</string>
+    <string name="action_settings">Settings</string>
+    <string name="task_title_hint">Enter a task: </string>
+    <string name="task_title_label">Planner </string>
+    <string name="task_details_label">Details</string>
+    <string name="task_completed_label">Task Completed</string>
+    <string name="new_task"> New Task </string>
+    <string name="task_date"> Select a date:  </string>
+    <string name="ok_button"> OK </string>
+    <string name="show_subtitle"> Add Event </string>
+</resources>

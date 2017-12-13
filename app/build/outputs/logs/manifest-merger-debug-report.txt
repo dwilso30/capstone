@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:design:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/e892fdae578288d2217f3a31d85fbdd6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/5064738c516bdb1bb14b3da26fe7bd60/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/c8a85d0152af6da34f435e03f23b56da/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/c8af8b4db3d40f85fbcc4a90a1541a05/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.3.0.aar/39f8e7f950e6c77dbee2f01d85568d96/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/c1b68ede6243c1a26429da69ea83155a/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support:design:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/e892fdae578288d2217f3a31d85fbdd6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/e892fdae578288d2217f3a31d85fbdd6/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/5064738c516bdb1bb14b3da26fe7bd60/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/5064738c516bdb1bb14b3da26fe7bd60/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/c8a85d0152af6da34f435e03f23b56da/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/c8a85d0152af6da34f435e03f23b56da/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/c8af8b4db3d40f85fbcc4a90a1541a05/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/c8af8b4db3d40f85fbcc4a90a1541a05/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/c1b68ede6243c1a26429da69ea83155a/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/c1b68ede6243c1a26429da69ea83155a/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.wilson.android.capstone.TaskPagerActivity
+ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:10:9-14:20
+	android:parentActivityName
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:13:13-59
+	android:label
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:12:13-45
+	android:name
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:11:13-46
+activity#com.wilson.android.capstone.TaskListActivity
+ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:15:9-23:20
+	android:name
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:15:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/e892fdae578288d2217f3a31d85fbdd6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/design-23.3.0.aar/e892fdae578288d2217f3a31d85fbdd6/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/5064738c516bdb1bb14b3da26fe7bd60/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/5064738c516bdb1bb14b3da26fe7bd60/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/c8a85d0152af6da34f435e03f23b56da/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/c8a85d0152af6da34f435e03f23b56da/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/c8af8b4db3d40f85fbcc4a90a1541a05/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/c8af8b4db3d40f85fbcc4a90a1541a05/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.3.0.aar/39f8e7f950e6c77dbee2f01d85568d96/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.3.0.aar/39f8e7f950e6c77dbee2f01d85568d96/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/c1b68ede6243c1a26429da69ea83155a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/support-v4-23.3.0.aar/c1b68ede6243c1a26429da69ea83155a/AndroidManifest.xml:20:5-43
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] /Users/wilso49/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/5064738c516bdb1bb14b3da26fe7bd60/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wilso49/Desktop/capstone/app/src/main/AndroidManifest.xml
